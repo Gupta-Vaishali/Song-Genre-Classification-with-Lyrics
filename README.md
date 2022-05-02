@@ -13,5 +13,8 @@ We intend to use a data science approach to examine how lyrics changed between t
 
 Through this study, we will discover the trend of popular music and statistically significant changes in sentiments expressed through their lyrics. Further, this study will be accompanied with visual and graphical representations of the analysis at every step for greater understanding of the trends of popular music.
 
+### Dataset
+Currently, the dataset is not made available on this repo. To recreate the dataset and various generated, please follow the collab files.
+
 ### Any Queries?
 For any queries, please reach out to the above mentioned collaborators.
